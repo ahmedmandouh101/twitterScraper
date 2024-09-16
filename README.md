@@ -25,10 +25,11 @@ To use this tool, follow these instructions to set up and run the scraper.
    git clone https://github.com/ahmedmandouh101/twitterScraper.git
    cd twitter-scraper
 2. ** dotenv **
+   ```bash
    TICKER=$TSLA
    INTERVAL=15
 
-3. ** output example **
+4. ** output example **
    ```bash
    '$TSLA' was mentioned '10' times in the last '15' minutes.
   
